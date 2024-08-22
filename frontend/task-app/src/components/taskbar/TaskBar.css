@@ -1,0 +1,38 @@
+#task-form {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 20px;
+  margin-bottom: -40px;
+}
+
+#task-form div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+#task-form label {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+#task-form div input {
+  height: 40px;
+  font-size: 1.1rem;
+}
+
+#task-form-content {
+  min-height: 100px;
+  padding: 20px;
+}
+
+#task-form button {
+  background-color: #7ba7e8;
+  color: white;
+  width: 20%;
+  padding: 10px;
+  font-size: 1.1rem;
+  border: none;
+}

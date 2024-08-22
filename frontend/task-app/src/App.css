@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#task-container {
+  width: 60%;
+  margin: 50px auto;
+}
+
+button:hover {
+  cursor: pointer;
+}

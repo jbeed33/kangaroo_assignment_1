@@ -1,0 +1,14 @@
+#task-list {
+  padding: 80px 40px;
+}
+
+#task-list h1 {
+  color: #7ba7e8;
+}
+
+#task-list button {
+  min-width: 15%;
+  padding: 10px;
+  color: black;
+  background-color: rgb(249, 122, 122);
+}

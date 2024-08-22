@@ -1,0 +1,14 @@
+.task-container {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.task-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.task-container p {
+  margin-bottom: 20px;
+}
